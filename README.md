@@ -4,8 +4,6 @@ You can click the Preview link to take a look at your changes.
 ### 안녕하세요 성장하는 개발자 현우입니다👋
 --->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesertonmars)](https://hits.seeyoufarm.com)
-
 <!--
 Here are some ideas to get you started:
 
@@ -28,6 +26,8 @@ Here are some ideas to get you started:
 <!-- HTML, CSS, JavaScript -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a><a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
 
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesertonmars)](https://hits.seeyoufarm.com) -->
 <!--
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
