@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![desertonmars's GitHub stats](https://github-readme-stats.vercel.app/api?username=desertonmars&show_icons=true&theme=radical&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desertonmars&theme=radical)](https://git.io/streak-stats)
+![desertonmars's GitHub stats](https://github-readme-stats.vercel.app/api?username=desertonmars&show_icons=true&theme=radical&count_private=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desertonmars&theme=radical)](https://git.io/streak-stats)
 [![desertonmars's github activity graph](https://activity-graph.herokuapp.com/graph?username=desertonmars&theme=redical)](https://github.com/desertonmars/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desertonmars&layout=compact&theme=radical)](https://github.com/desertonmars/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desertonmars&layout=compact&theme=radical)](https://github.com/desertonmars/github-readme-stats) 
 <!-- HTML, CSS, JavaScript -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a><a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
 
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesertonmars)](https://hits.seeyoufarm.com) -->
