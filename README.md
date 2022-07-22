@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![desertonmars's GitHub stats](https://github-readme-stats.vercel.app/api?username=desertonmars&show_icons=true&theme=radical&count_private=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desertonmars&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desertonmars&layout=compact&theme=radical)](https://github.com/desertonmars/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desertonmars&layout=compact&theme=radical)](https://github.com/desertonmars/github-readme-stats)  -->
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesertonmars)](https://hits.seeyoufarm.com) -->
 <!-- [![desertonmars's github activity graph](https://activity-graph.herokuapp.com/graph?username=desertonmars&theme=redical)](https://github.com/desertonmars/github-readme-activity-graph) -->
